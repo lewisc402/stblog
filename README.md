@@ -1,0 +1,4 @@
+stblog
+======
+
+static blog
